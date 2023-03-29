@@ -1,0 +1,8 @@
+com\revature\exception\ResourceNotFoundException.class
+com\revature\service\AllergyService.class
+com\revature\service\impl\AllergyServiceImpl.class
+com\revature\repository\AllergyRepository.class
+com\revature\controller\AllergyController.class
+com\revature\AllergyServiceApplication.class
+com\revature\entity\Allergy.class
+com\revature\exception\GlobalExceptionHandler.class
